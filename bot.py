@@ -10,7 +10,7 @@ from telegram.ext import (
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════
 
-TELEGRAM_TOKEN = "8736987420:AAFD-6e7eI0ggIGXv97O0J_bsWHVwltCwdk"
+TELEGRAM_TOKEN = "8655034458:AAHH4VtGQx5X5rb3x9DcCXBo3v6Zt28HjEI"
 OWNER_USERNAME = "@jaat43210"
 OWNER_NAME     = "CLOUDY"
 ALLOWED_USERS  = [8094697912,7973163795]
